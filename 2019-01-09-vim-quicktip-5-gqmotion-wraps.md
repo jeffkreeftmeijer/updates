@@ -2,6 +2,7 @@
 date: 2019-01-09T14:03:39.474907Z
 mastodon: ["https://mastodon.social/@jkreeftmeijer/101386985058361360", "https://mastodon.social/@jkreeftmeijer/101386985088963724"]
 twitter: ["https://twitter.com/jkreeftmeijer/status/1083001349082701824", "https://twitter.com/jkreeftmeijer/status/1083001350076727303"]
+tags: ["vim"]
 ---
 Vim quicktip #5: `gq{motion}` wraps lines to fit the configured textwidth (`:set textwidth`). If textwidth is not set, #vim will use the screen width (with a maximum of 79).
 
