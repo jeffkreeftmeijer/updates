@@ -7,5 +7,5 @@ I released Grim (https://github.com/jeffkreeftmeijer/vim-dim/blob/49c5833997461a
 
 https://github.com/jeffkreeftmeijer/.vim/commit/abae1222dc0350205eed61701a3fa644e43e40af
 
-![Grim in “light” mode](/media/Screen Shot 2021-01-26 at 18.00.39.png)
-![Grim in “dark” mode](/media/Screen Shot 2021-01-26 at 18.00.05.png)
+![Grim in “light” mode](/media/Screen%20Shot%202021-01-26%20at%2018.00.39.png)
+![Grim in “dark” mode](/media/Screen%20Shot%202021-01-26%20at%2018.00.05.png)
